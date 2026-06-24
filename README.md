@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋, I'm Lokeshwaran
 
-<!--
-**lokesh1725/lokesh1725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 B.E ECE Graduate
+- 💻 Frontend Developer
+- 🌱 Learning React.js and Full Stack Development
+- 🐧 Linux Enthusiast
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+C | Python | Java | HTML | CSS | JavaScript | React | SQLite | Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- Smart Student Portal
+- Movie Database Management System
+- EMI Calculator
+- Contact Management System
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=lokesh1725&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh1725&layout=compact)
