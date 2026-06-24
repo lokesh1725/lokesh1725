@@ -1,9 +1,16 @@
-# Hi 👋, I'm Lokeshwaran
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B86E5&height=250&section=header&text=Lokeshwaran&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20|%20React.js%20|%20Linux%20Enthusiast&descAlignY=60" />
+</p>
 
-<h3 align="center">Frontend Developer | React.js | JavaScript | SQL | Linux Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Lokeshwaran</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Frontend+Developer;React.js+Enthusiast;Linux+User;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+Developer;Linux+Enthusiast;Open+Source+Learner" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lokesh1725&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/lokesh1725?label=Followers&style=for-the-badge" />
 </p>
 
 ---
@@ -15,7 +22,7 @@
 * 🌱 Currently learning Full Stack Development
 * 🐧 Linux Enthusiast
 * 🔭 Interested in Web Development and Open Source
-* 📫 Reach me at: **[your-email@example.com](mailto:your-email@example.com)**
+* ⚡ Love building responsive websites and database applications
 
 ---
 
@@ -23,23 +30,21 @@
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+</p>
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
 
 ### Database & Tools
 
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite,git,github,vscode,linux" />
+</p>
 
 ---
 
@@ -47,30 +52,27 @@
 
 ### 🎓 Smart Student Portal
 
-A responsive web application for managing student information, attendance, and academic records.
+Responsive student management portal with modern UI.
 
 ### ⚡ EV Website
 
-A modern and responsive Electric Vehicle website showcasing EV products and features.
+Modern Electric Vehicle website showcasing EV products and features.
 
 ### 🍽️ Restaurant Website
 
-A responsive restaurant website with attractive UI, menu section, and contact features.
+Responsive restaurant website with attractive design and menu sections.
 
 ### 🎬 Movie Database Management System
 
-A database-driven application built using C and SQLite for managing movie information.
+Database-driven application built using C and SQLite for managing movie information.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokesh1725&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh1725&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lokesh1725&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh1725&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
@@ -79,11 +81,33 @@ A database-driven application built using C and SQLite for managing movie inform
 
 ---
 
-## 🌐 Connect With Me
+## 🏆 GitHub Trophies
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/lokesh1725)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lokesh1725&theme=tokyonight&row=1&column=6" />
+</p>
 
 ---
 
-⭐ From [Lokeshwaran](https://github.com/lokesh1725)
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/lokesh1725">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://linkedin.com/in/your-linkedin-profile">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/lokesh1725/lokesh1725/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<p align="center">
+  <b>⭐ Thanks for visiting my profile! ⭐</b>
+</p>
