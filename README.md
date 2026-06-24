@@ -15,14 +15,22 @@
   <img src="https://img.shields.io/github/followers/lokesh1725?label=Followers&style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1rOWJ3ZjZjaHNwZTc2ajZodGp5ZnNham1pNjNqY3Q1MW5qZjQ1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeyCyriTsxn3i/giphy.gif" width="350" />
+</p>
+
+---
+
 ## 🏠 About Me
 
 * 🌍 I'm based in Chennai, Tamil Nadu, India
-* ✉️ You can contact me at **[your-email@example.com](mailto:your-email@example.com)**
+* 🎓 B.E Electronics & Communication Engineering Graduate
+* 💻 Frontend Developer
 * 🚀 I'm currently working on **Smart Student Portal**
 * 🧠 I'm learning **Full Stack Development & React.js**
 * 🤝 I'm open to collaborating on **Web Development Projects**
-* ⚡ I'm interested in **Linux, React.js, and Open Source**
+* 🐧 Linux Enthusiast and Open Source Learner
+* ⚡ I love building responsive websites and database applications
 
 ---
 
@@ -63,14 +71,6 @@ Database-driven application built using C and SQLite for managing movie informat
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=lokesh1725&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lokesh1725&theme=algolia&no-frame=true&margin-w=15" />
 </p>
 
 ---
