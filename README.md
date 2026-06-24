@@ -7,7 +7,7 @@
 <h3 align="center">Full-Stack Software Developer | React.js | JavaScript | SQL | Linux Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Developer;React.js+Developer;Open+Source+Learner;Linux+Enthusiast;Building+End-to-End+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=850&lines=Full-Stack+Software+Developer;Building+End-to-End+Applications;Open+Source+Lover;Linux+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
@@ -29,7 +29,8 @@ Full-Stack Software Developer passionate about building clean, reliable, and sca
 * 💻 Comfortable across frontend, backend, and database layers
 * 🛠️ Strong in React.js, REST API integration, SQL, and modern web technologies
 * 🐧 Passionate about Linux, Open Source, and software development
-* 🌱 Continuously sharpening my skills through hands-on projects and continuous learning
+* ❤️ Open Source Lover and continuous learner
+* 🌱 Continuously sharpening my skills through hands-on projects
 * 🤝 Open to collaborating on Full-Stack and Web Development projects
 * ⚡ I love transforming ideas into real-world applications
 
@@ -88,38 +89,12 @@ Full-Stack Software Developer passionate about building clean, reliable, and sca
 
 <div align="center">
 
-<table>
-<tr>
-<th>Project</th>
-<th>Description</th>
-<th>Stack</th>
-</tr>
-
-<tr>
-<td align="center">🎓 <a href="https://github.com/lokesh1725/SmartStudentPortal">Smart Student Portal</a></td>
-<td align="center">Responsive student management portal with modern UI</td>
-<td align="center">React.js · JavaScript · HTML · CSS</td>
-</tr>
-
-<tr>
-<td align="center">⚡ <a href="https://github.com/lokesh1725/ev-website">EV Website</a></td>
-<td align="center">Modern Electric Vehicle website showcasing EV products</td>
-<td align="center">HTML · CSS · JavaScript</td>
-</tr>
-
-<tr>
-<td align="center">🍽️ <a href="https://github.com/lokesh1725/Restaurant-Website">Restaurant Website</a></td>
-<td align="center">Responsive restaurant website with attractive design</td>
-<td align="center">HTML · CSS · JavaScript</td>
-</tr>
-
-<tr>
-<td align="center">🎬 <a href="https://github.com/lokesh1725/movie">Movie Database Management System</a></td>
-<td align="center">Database-driven movie management application</td>
-<td align="center">C · SQLite</td>
-</tr>
-
-</table>
+|                                   Project                                   | Description                                            | Stack                              |
+| :-------------------------------------------------------------------------: | :----------------------------------------------------- | :--------------------------------- |
+| 🎓 [Smart Student Portal](https://github.com/lokesh1725/SmartStudentPortal) | Responsive student management portal with modern UI    | React.js · JavaScript · HTML · CSS |
+|                                 ⚡ EV Website                                | Modern Electric Vehicle website showcasing EV products | HTML · CSS · JavaScript            |
+|                            🍽️ Restaurant Website                           | Responsive restaurant website with attractive design   | HTML · CSS · JavaScript            |
+|                     🎬 Movie Database Management System                     | Database-driven movie management application           | C · SQLite                         |
 
 </div>
 
@@ -140,14 +115,21 @@ Full-Stack Software Developer passionate about building clean, reliable, and sca
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/lokesh1725">
-    <img src="https://skillicons.dev/icons?i=github"/>
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://github.com/lokesh1725">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin-profile">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
