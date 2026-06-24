@@ -4,6 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm Lokeshwaran</h1>
 
+<h3 align="center">Frontend Developer | React.js | JavaScript | Linux Enthusiast</h3>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+Developer;Linux+Enthusiast;Open+Source+Learner" />
 </p>
@@ -28,22 +30,8 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
-
-### Database & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=sqlite,git,github,vscode,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,sqlite,git,github,vscode,linux" />
 </p>
 
 ---
@@ -81,22 +69,14 @@ Database-driven application built using C and SQLite for managing movie informat
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lokesh1725&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/lokesh1725">
-  <img src="https://skillicons.dev/icons?i=github" />
+<a href="https://github.com/lokesh1725" target="blank">
+  <img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
-<a href="https://linkedin.com/in/your-linkedin-profile">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://linkedin.com/in/your-linkedin-url" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 </p>
 
@@ -109,5 +89,5 @@ Database-driven application built using C and SQLite for managing movie informat
 ---
 
 <p align="center">
-  <b>⭐ Thanks for visiting my profile! ⭐</b>
+  ⭐ Thanks for visiting my profile! ⭐
 </p>
