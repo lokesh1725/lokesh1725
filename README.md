@@ -7,7 +7,7 @@
 <h3 align="center">Frontend Developer | React.js | JavaScript | Linux Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+Developer;Linux+Enthusiast;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;Linux+Enthusiast;Open+Source+Learner" />
 </p>
 
 <p align="center">
@@ -15,40 +15,38 @@
   <img src="https://img.shields.io/github/followers/lokesh1725?label=Followers&style=for-the-badge" />
 </p>
 
----
+## 🏠 About Me
 
-## 🚀 About Me
-
-* 🎓 B.E Electronics & Communication Engineering Graduate
-* 💻 Passionate Frontend Developer
-* 🌱 Currently learning Full Stack Development
-* 🐧 Linux Enthusiast
-* 🔭 Interested in Web Development and Open Source
-* ⚡ Love building responsive websites and database applications
+* 🌍 I'm based in Chennai, Tamil Nadu, India
+* ✉️ You can contact me at **[your-email@example.com](mailto:your-email@example.com)**
+* 🚀 I'm currently working on **Smart Student Portal**
+* 🧠 I'm learning **Full Stack Development & React.js**
+* 🤝 I'm open to collaborating on **Web Development Projects**
+* ⚡ I'm interested in **Linux, React.js, and Open Source**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,sqlite,git,github,vscode,linux" />
 </p>
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
 ### 🎓 Smart Student Portal
 
-Responsive student management portal with modern UI.
+Responsive web application for managing student information and academic records.
 
 ### ⚡ EV Website
 
-Modern Electric Vehicle website showcasing EV products and features.
+Modern responsive Electric Vehicle website showcasing products and features.
 
 ### 🍽️ Restaurant Website
 
-Responsive restaurant website with attractive design and menu sections.
+Responsive restaurant website with menu, services, and attractive UI.
 
 ### 🎬 Movie Database Management System
 
@@ -69,9 +67,17 @@ Database-driven application built using C and SQLite for managing movie informat
 
 ---
 
-## 🌐 Connect With Me
+## 🏆 GitHub Trophies
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lokesh1725&theme=algolia&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
   <a href="https://github.com/lokesh1725">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
@@ -85,6 +91,8 @@ Database-driven application built using C and SQLite for managing movie informat
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/lokesh1725/lokesh1725/output/github-contribution-grid-snake.svg)
+
+---
 
 <p align="center">
   ⭐ Thanks for visiting my profile! ⭐
