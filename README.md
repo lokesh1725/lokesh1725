@@ -71,21 +71,22 @@ Database-driven application built using C and SQLite for managing movie informat
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/lokesh1725" target="blank">
-  <img src="https://skillicons.dev/icons?i=github" height="50" />
-</a>
-<a href="https://linkedin.com/in/your-linkedin-url" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-</a>
+<p align="center">
+  <a href="https://github.com/lokesh1725">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-profile">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/lokesh1725/lokesh1725/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/lokesh1725/lokesh1725/blob/output/github-contribution-grid-snake.svg)
 
+---
 
 <p align="center">
   ⭐ Thanks for visiting my profile! ⭐
