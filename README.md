@@ -84,7 +84,7 @@ Database-driven application built using C and SQLite for managing movie informat
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/lokesh1725/lokesh1725/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lokesh1725/lokesh1725/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
