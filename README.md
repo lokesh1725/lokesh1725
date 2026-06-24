@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1rOWJ3ZjZjaHNwZTc2ajZodGp5ZnNham1pNjNqY3Q1MW5qZjQ1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeyCyriTsxn3i/giphy.gif" width="350" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1rOWJ3ZjZjaHNwZTc2ajZodGp5ZnNham1pNjNqY3Q1MW5qZjQ1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeyCyriTsxn3i/giphy.gif" width="350"/>
 </p>
 
 ---
@@ -25,40 +25,57 @@
 
 * 🌍 I'm based in Chennai, Tamil Nadu, India
 * 🎓 B.E Electronics & Communication Engineering Graduate
-* 💻 Frontend Developer
-* 🚀 I'm currently working on **Smart Student Portal**
-* 🧠 I'm learning **Full Stack Development & React.js**
-* 🤝 I'm open to collaborating on **Web Development Projects**
+* 💻 Frontend Developer passionate about building modern web applications
+* 🚀 Currently working on **Smart Student Portal**
+* 🧠 Learning **Full Stack Development & React.js**
+* 🤝 Open to collaborating on Web Development Projects
 * 🐧 Linux Enthusiast and Open Source Learner
-* ⚡ I love building responsive websites and database applications
+* ⚡ Love building responsive websites and database applications
 
 ---
 
-## 🛠️ Skills
+## 🧰 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,sqlite,git,github,vscode,linux" />
+### 💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css" />
+</p>
+
+### ⚛️ Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,javascript" />
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
+</p>
+
+### 🛠️ Tools & Workflow
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+### 🌱 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎓 Smart Student Portal
-
-Responsive web application for managing student information and academic records.
-
-### ⚡ EV Website
-
-Modern responsive Electric Vehicle website showcasing products and features.
-
-### 🍽️ Restaurant Website
-
-Responsive restaurant website with menu, services, and attractive UI.
-
-### 🎬 Movie Database Management System
-
-Database-driven application built using C and SQLite for managing movie information.
+| Project                             | Description                                            |
+| ----------------------------------- | ------------------------------------------------------ |
+| 🎓 Smart Student Portal             | Responsive student management portal with modern UI    |
+| ⚡ EV Website                        | Modern Electric Vehicle website showcasing EV products |
+| 🍽️ Restaurant Website              | Responsive restaurant website with attractive design   |
+| 🎬 Movie Database Management System | C and SQLite based movie management application        |
 
 ---
 
@@ -77,7 +94,7 @@ Database-driven application built using C and SQLite for managing movie informat
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/lokesh1725">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
