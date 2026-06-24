@@ -55,7 +55,6 @@
 <p align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-000000?style=for-the-badge\&logo=css3\&logoColor=white)
 
 </p>
 
@@ -64,7 +63,7 @@
 <p align="center">
 
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 </p>
 
@@ -83,12 +82,16 @@
 
 ## 🚀 Featured Projects
 
-| Project                             | Description                                            |
-| ----------------------------------- | ------------------------------------------------------ |
-| 🎓 Smart Student Portal             | Responsive student management portal with modern UI    |
-| ⚡ EV Website                        | Modern Electric Vehicle website showcasing EV products |
-| 🍽️ Restaurant Website              | Responsive restaurant website with attractive design   |
-| 🎬 Movie Database Management System | C and SQLite based movie management application        |
+<div align="center">
+
+|                                         Project                                        | Description                                            | Stack                              |
+| :------------------------------------------------------------------------------------: | :----------------------------------------------------- | :--------------------------------- |
+| 🎓 <a href="https://github.com/lokesh1725/SmartStudentPortal">Smart Student Portal</a> | Responsive student management portal with modern UI    | React.js · JavaScript · HTML · CSS |
+|           ⚡ <a href="https://github.com/lokesh1725/ev-website">EV Website</a>          | Modern Electric Vehicle website showcasing EV products | HTML · CSS · JavaScript            |
+|  🍽️ <a href="https://github.com/lokesh1725/Restaurant-Website">Restaurant Website</a> | Responsive restaurant website with attractive design   | HTML · CSS · JavaScript            |
+|  🎬 <a href="https://github.com/lokesh1725/movie">Movie Database Management System</a> | Database-driven movie management application           | C · SQLite                         |
+
+</div>
 
 ---
 
@@ -125,5 +128,5 @@
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+  ⭐ Thanks for visiting my profile! ⭐
 </p>
