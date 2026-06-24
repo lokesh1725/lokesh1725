@@ -36,47 +36,41 @@
 
 ## 🧰 Tech Stack
 
-### Languages
+<div align="center">
 
-<p align="center">
+<h3>Languages</h3>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-</p>
+<br><br>
 
-### Frontend
+<h3>Frontend</h3>
 
-<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+<br><br>
 
-</p>
+<h3>Databases</h3>
 
-### Databases
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<p align="center">
+<br><br>
 
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+<h3>Tools & Workflow</h3>
 
-</p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
-### Tools & Workflow
-
-<p align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-
-</p>
+</div>
 
 ---
 
@@ -84,12 +78,38 @@
 
 <div align="center">
 
-|                                         Project                                        | Description                                            | Stack                              |
-| :------------------------------------------------------------------------------------: | :----------------------------------------------------- | :--------------------------------- |
-| 🎓 <a href="https://github.com/lokesh1725/SmartStudentPortal">Smart Student Portal</a> | Responsive student management portal with modern UI    | React.js · JavaScript · HTML · CSS |
-|           ⚡ <a href="https://github.com/lokesh1725/ev-website">EV Website</a>          | Modern Electric Vehicle website showcasing EV products | HTML · CSS · JavaScript            |
-|  🍽️ <a href="https://github.com/lokesh1725/Restaurant-Website">Restaurant Website</a> | Responsive restaurant website with attractive design   | HTML · CSS · JavaScript            |
-|  🎬 <a href="https://github.com/lokesh1725/movie">Movie Database Management System</a> | Database-driven movie management application           | C · SQLite                         |
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Stack</th>
+</tr>
+
+<tr>
+<td align="center">🎓 <a href="https://github.com/lokesh1725/SmartStudentPortal">Smart Student Portal</a></td>
+<td align="center">Responsive student management portal with modern UI</td>
+<td align="center">React.js · JavaScript · HTML · CSS</td>
+</tr>
+
+<tr>
+<td align="center">⚡ <a href="https://github.com/lokesh1725/ev-website">EV Website</a></td>
+<td align="center">Modern Electric Vehicle website showcasing EV products</td>
+<td align="center">HTML · CSS · JavaScript</td>
+</tr>
+
+<tr>
+<td align="center">🍽️ <a href="https://github.com/lokesh1725/Restaurant-Website">Restaurant Website</a></td>
+<td align="center">Responsive restaurant website with attractive design</td>
+<td align="center">HTML · CSS · JavaScript</td>
+</tr>
+
+<tr>
+<td align="center">🎬 <a href="https://github.com/lokesh1725/movie">Movie Database Management System</a></td>
+<td align="center">Database-driven movie management application</td>
+<td align="center">C · SQLite</td>
+</tr>
+
+</table>
 
 </div>
 
@@ -103,7 +123,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=lokesh1725&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=lokesh1725&theme=tokyonight"/>
 </p>
 
 ---
@@ -112,10 +132,10 @@
 
 <p align="center">
   <a href="https://github.com/lokesh1725">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github"/>
   </a>
   <a href="https://linkedin.com/in/your-linkedin-profile">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 </p>
 
@@ -123,10 +143,12 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/lokesh1725/lokesh1725/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lokesh1725/lokesh1725/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
+⭐ Thanks for visiting my profile! ⭐
 </p>
