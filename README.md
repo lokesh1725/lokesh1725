@@ -38,7 +38,7 @@
 
 <div align="center">
 
-<h3>Languages</h3>
+<h3>💻 Languages</h3>
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -50,20 +50,30 @@
 
 <br><br>
 
-<h3>Frontend</h3>
+<h3>⚛️ Frontend</h3>
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+<img src="https://img.shields.io/badge/Responsive_Design-000000?style=for-the-badge&logo=css3&logoColor=white"/>
 
 <br><br>
 
-<h3>Databases</h3>
+<h3>⚙️ Backend</h3>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<br><br>
+
+<h3>🗄️ Databases</h3>
 
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <br><br>
 
-<h3>Tools & Workflow</h3>
+<h3>🛠️ Tools & Workflow</h3>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -72,7 +82,6 @@
 
 </div>
 
----
 
 ## 🚀 Featured Projects
 
