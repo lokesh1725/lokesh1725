@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B86E5&height=250&section=header&text=Lokeshwaran&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20|%20React.js%20|%20Linux%20Enthusiast&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B86E5&height=250&section=header&text=Lokeshwaran&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Software%20Developer%20|%20React.js%20|%20Linux%20Enthusiast&descAlignY=60" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Lokeshwaran</h1>
 
-<h3 align="center">Frontend Developer | React.js | JavaScript | Linux Enthusiast</h3>
+<h3 align="center">Full-Stack Software Developer | React.js | JavaScript | SQL | Linux Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;Linux+Enthusiast;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Developer;React.js+Developer;Open+Source+Learner;Linux+Enthusiast;Building+End-to-End+Applications" />
 </p>
 
 <p align="center">
@@ -23,14 +23,15 @@
 
 ## 🏠 About Me
 
-* 🌍 I'm based in Chennai, Tamil Nadu, India
-* 🎓 B.E Electronics & Communication Engineering Graduate
-* 💻 Frontend Developer passionate about building modern web applications
-* 🚀 Currently working on **Smart Student Portal**
-* 🧠 Learning **Full Stack Development & React.js**
-* 🤝 Open to collaborating on Web Development Projects
-* 🐧 Linux Enthusiast and Open Source Learner
-* ⚡ Love building responsive websites and database applications
+Full-Stack Software Developer passionate about building clean, reliable, and scalable applications — from responsive front-end interfaces to database-driven back-end systems. I enjoy creating end-to-end solutions using React.js, JavaScript, SQL, and Linux while focusing on maintainable code, intuitive user experiences, and practical problem-solving.
+
+* 🔭 Building full-stack web applications and database-driven systems
+* 💻 Comfortable across frontend, backend, and database layers
+* 🛠️ Strong in React.js, REST API integration, SQL, and modern web technologies
+* 🐧 Passionate about Linux, Open Source, and software development
+* 🌱 Continuously sharpening my skills through hands-on projects and continuous learning
+* 🤝 Open to collaborating on Full-Stack and Web Development projects
+* ⚡ I love transforming ideas into real-world applications
 
 ---
 
@@ -54,7 +55,6 @@
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-<img src="https://img.shields.io/badge/Responsive_Design-000000?style=for-the-badge&logo=css3&logoColor=white"/>
 
 <br><br>
 
@@ -82,6 +82,7 @@
 
 </div>
 
+---
 
 ## 🚀 Featured Projects
 
