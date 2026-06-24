@@ -142,5 +142,21 @@ Full-Stack Software Developer passionate about building clean, reliable, and sca
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&color=36BCF7&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!;Happy+Coding!+🚀;Let's+Build+Something+Amazing!+✨;Keep+Learning+and+Keep+Growing!+🌱" />
+</p>
+
+<p align="center">
+  <b>⭐ Thanks for visiting my profile! ⭐</b>
+</p>
+
+<p align="center">
+  <i>🚀 Keep Learning • Keep Building • Keep Growing 🚀</i>
+</p>
+
+<p align="center">
+  <i>Feel free to explore my repositories and connect with me!</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B86E5&height=120&section=footer"/>
 </p>
