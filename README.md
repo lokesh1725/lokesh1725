@@ -79,6 +79,7 @@ Full-Stack Software Developer passionate about building clean, reliable, and sca
 
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/DB%20Browser%20for%20SQLite-1B87A6?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 <br><br>
 
@@ -100,9 +101,9 @@ Full-Stack Software Developer passionate about building clean, reliable, and sca
 |                                                Project                                                | Description                                            | Stack                              |
 | :---------------------------------------------------------------------------------------------------: | :----------------------------------------------------- | :--------------------------------- |
 |              🎓 [Smart Student Portal](https://github.com/lokesh1725/SmartStudentPortal)              | Responsive student management portal with modern UI    | React.js · JavaScript · HTML · CSS |
-|                        ⚡ [EV Website](https://github.com/lokesh1725/EV-Website)                       | Modern Electric Vehicle website showcasing EV products | HTML · CSS · JavaScript            |
-|               🍽️ [Restaurant Website](https://github.com/lokesh1725/Restaurant-Website)              | Responsive restaurant website with attractive design   | HTML · CSS · JavaScript            |
-| 🎬 [Movie Database Management System](https://github.com/lokesh1725/Movie-Database-Management-System) | Database-driven movie management application           | C · SQLite                         |
+|                        ⚡ [EV Website](https://github.com/lokesh1725/daily-work/tree/main/ev-website)                       | Modern Electric Vehicle website showcasing EV products | HTML · CSS · JavaScript            |
+|               🍽️ [Restaurant Website](https://github.com/lokesh1725/daily-work/tree/main/restaurant-website)              | Responsive restaurant website with attractive design   | HTML · CSS · JavaScript            |
+| 🎬 [Movie Database Management System](https://github.com/lokesh1725/movie) | Database-driven movie management application           | C · SQLite                         |
 
 </div>
 
