@@ -148,6 +148,18 @@ Full-Stack Software Developer passionate about building clean, reliable, and sca
 
 ---
 
+## 💭 Favorite Quote
+
+<div align="center">
+
+> *"Free software is a matter of liberty, not price. To understand the concept, you should think of 'free' as in 'free speech,' not as in 'free beer.'"*
+>
+> — **Richard Stallman**, Founder of the GNU Project & Free Software Foundation
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
