@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B86E5&height=250&section=header&text=LOKESHWARAN K&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20|%20React.js%20|%20Linux%20Enthusiast&descAlignY=60" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B86E5&height=250&section=header&text=LOKESHWARAN%20K&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%7C%20React.js%20%7C%20Linux%20Enthusiast&descAlignY=60"
+    alt="Lokeshwaran K Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm LOKESHWARAN K</h1>
