@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B86E5&height=250&section=header&text=Lokeshwaran&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Software%20Developer%20|%20React.js%20|%20Linux%20Enthusiast&descAlignY=60" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Lokeshwaran</h1>
+<h1 align="center">Hi 👋, I'm LOKESHWARAN K</h1>
 
-<h3 align="center">Full-Stack Software Developer | React.js | JavaScript | SQL | Linux Enthusiast</h3>
+<h3 align="center">Software Developer | React.js | JavaScript | SQL | Linux Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=850&lines=Full-Stack+Software+Developer;Building+End-to-End+Applications;Open+Source+Lover;Linux+Enthusiast;Always+Learning+New+Technologies" />
@@ -31,7 +31,7 @@
 
 ## 🏠 About Me
 
-Full-Stack Software Developer passionate about building clean, reliable, and scalable applications — from responsive front-end interfaces to database-driven back-end systems. I enjoy creating end-to-end solutions using React.js, JavaScript, SQL, and Linux while focusing on maintainable code, intuitive user experiences, and practical problem-solving.
+Software Developer passionate about building clean, reliable, and scalable applications — from responsive front-end interfaces to database-driven back-end systems. I enjoy creating end-to-end solutions using React.js, JavaScript, SQL, and Linux while focusing on maintainable code, intuitive user experiences, and practical problem-solving.
 
 * 🔭 Building full-stack web applications and database-driven systems
 * 💻 Comfortable across frontend, backend, and database layers
